@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s + %s" "WATER" "STIR" 
+printf "%o" $((WATER+$STIR))
